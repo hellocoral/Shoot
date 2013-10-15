@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+/proj.ios_mac/HelloCpp.xcodeproj/xcuserdata/yaojie.xcuserdatad/
+/proj.ios_mac/HelloCpp.xcodeproj/project.xcworkspace/xcuserdata/yaojie.xcuserdatad/
+/proj.ios_mac/.DS_Store
