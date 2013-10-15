@@ -63,6 +63,82 @@
 		50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629517ECD46A001EB2F8 /* Icon-100.png */; };
 		50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A017ECD613001EB2F8 /* Icon-29.png */; };
 		50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A117ECD613001EB2F8 /* Icon-50.png */; };
+		AB9E58A2180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587D180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png */; };
+		AB9E58A3180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587D180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png */; };
+		AB9E58A4180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587E180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png */; };
+		AB9E58A5180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587E180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png */; };
+		AB9E58A6180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587F180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png */; };
+		AB9E58A7180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E587F180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png */; };
+		AB9E58A8180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5880180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png */; };
+		AB9E58A9180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5880180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png */; };
+		AB9E58AA180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5881180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png */; };
+		AB9E58AB180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5881180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png */; };
+		AB9E58AC180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5882180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png */; };
+		AB9E58AD180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5882180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png */; };
+		AB9E58AE180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5883180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png */; };
+		AB9E58AF180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5883180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png */; };
+		AB9E58B0180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5884180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png */; };
+		AB9E58B1180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5884180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png */; };
+		AB9E58B2180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5885180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png */; };
+		AB9E58B3180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5885180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png */; };
+		AB9E58B4180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5886180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png */; };
+		AB9E58B5180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5886180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png */; };
+		AB9E58B6180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5887180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png */; };
+		AB9E58B7180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5887180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png */; };
+		AB9E58B8180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5888180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png */; };
+		AB9E58B9180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5888180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png */; };
+		AB9E58BA180D1CDD00192A20 /* BurstAircraftComplete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5889180D1CDD00192A20 /* BurstAircraftComplete@2x.png */; };
+		AB9E58BB180D1CDD00192A20 /* BurstAircraftComplete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5889180D1CDD00192A20 /* BurstAircraftComplete@2x.png */; };
+		AB9E58BC180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588A180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png */; };
+		AB9E58BD180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588A180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png */; };
+		AB9E58BE180D1CDD00192A20 /* BurstAircraftLogo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588B180D1CDD00192A20 /* BurstAircraftLogo-hd.png */; };
+		AB9E58BF180D1CDD00192A20 /* BurstAircraftLogo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588B180D1CDD00192A20 /* BurstAircraftLogo-hd.png */; };
+		AB9E58C0180D1CDD00192A20 /* BurstAircraftLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588C180D1CDD00192A20 /* BurstAircraftLogo.png */; };
+		AB9E58C1180D1CDD00192A20 /* BurstAircraftLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588C180D1CDD00192A20 /* BurstAircraftLogo.png */; };
+		AB9E58C2180D1CDD00192A20 /* BurstAircraftPause@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588D180D1CDD00192A20 /* BurstAircraftPause@2x.png */; };
+		AB9E58C3180D1CDD00192A20 /* BurstAircraftPause@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588D180D1CDD00192A20 /* BurstAircraftPause@2x.png */; };
+		AB9E58C4180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588E180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png */; };
+		AB9E58C5180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588E180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png */; };
+		AB9E58C6180D1CDD00192A20 /* BurstAircraftStart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588F180D1CDD00192A20 /* BurstAircraftStart@2x.png */; };
+		AB9E58C7180D1CDD00192A20 /* BurstAircraftStart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E588F180D1CDD00192A20 /* BurstAircraftStart@2x.png */; };
+		AB9E58C8180D1CDD00192A20 /* BurstAircraftStartHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5890180D1CDD00192A20 /* BurstAircraftStartHL@2x.png */; };
+		AB9E58C9180D1CDD00192A20 /* BurstAircraftStartHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5890180D1CDD00192A20 /* BurstAircraftStartHL@2x.png */; };
+		AB9E58CA180D1CDD00192A20 /* BurstAircraftTopScores@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5891180D1CDD00192A20 /* BurstAircraftTopScores@2x.png */; };
+		AB9E58CB180D1CDD00192A20 /* BurstAircraftTopScores@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5891180D1CDD00192A20 /* BurstAircraftTopScores@2x.png */; };
+		AB9E58CC180D1CDD00192A20 /* end.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5892180D1CDD00192A20 /* end.wav */; };
+		AB9E58CD180D1CDD00192A20 /* end.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5892180D1CDD00192A20 /* end.wav */; };
+		AB9E58CE180D1CDD00192A20 /* enemy1_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5893180D1CDD00192A20 /* enemy1_down.mp3 */; };
+		AB9E58CF180D1CDD00192A20 /* enemy1_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5893180D1CDD00192A20 /* enemy1_down.mp3 */; };
+		AB9E58D0180D1CDD00192A20 /* enemy2_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5894180D1CDD00192A20 /* enemy2_down.mp3 */; };
+		AB9E58D1180D1CDD00192A20 /* enemy2_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5894180D1CDD00192A20 /* enemy2_down.mp3 */; };
+		AB9E58D2180D1CDD00192A20 /* enemy2_out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5895180D1CDD00192A20 /* enemy2_out.mp3 */; };
+		AB9E58D3180D1CDD00192A20 /* enemy2_out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5895180D1CDD00192A20 /* enemy2_out.mp3 */; };
+		AB9E58D4180D1CDD00192A20 /* enemy3_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5896180D1CDD00192A20 /* enemy3_down.mp3 */; };
+		AB9E58D5180D1CDD00192A20 /* enemy3_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5896180D1CDD00192A20 /* enemy3_down.mp3 */; };
+		AB9E58D6180D1CDD00192A20 /* enemy4_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5897180D1CDD00192A20 /* enemy4_down.mp3 */; };
+		AB9E58D7180D1CDD00192A20 /* enemy4_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5897180D1CDD00192A20 /* enemy4_down.mp3 */; };
+		AB9E58D8180D1CDD00192A20 /* enemy4_out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5898180D1CDD00192A20 /* enemy4_out.mp3 */; };
+		AB9E58D9180D1CDD00192A20 /* enemy4_out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5898180D1CDD00192A20 /* enemy4_out.mp3 */; };
+		AB9E58DA180D1CDD00192A20 /* enemy5_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5899180D1CDD00192A20 /* enemy5_down.mp3 */; };
+		AB9E58DB180D1CDD00192A20 /* enemy5_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E5899180D1CDD00192A20 /* enemy5_down.mp3 */; };
+		AB9E58DC180D1CDD00192A20 /* game_achievement.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589A180D1CDD00192A20 /* game_achievement.mp3 */; };
+		AB9E58DD180D1CDD00192A20 /* game_achievement.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589A180D1CDD00192A20 /* game_achievement.mp3 */; };
+		AB9E58DE180D1CDD00192A20 /* game_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589B180D1CDD00192A20 /* game_music.mp3 */; };
+		AB9E58DF180D1CDD00192A20 /* game_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589B180D1CDD00192A20 /* game_music.mp3 */; };
+		AB9E58E0180D1CDD00192A20 /* game_over.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589C180D1CDD00192A20 /* game_over.mp3 */; };
+		AB9E58E1180D1CDD00192A20 /* game_over.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589C180D1CDD00192A20 /* game_over.mp3 */; };
+		AB9E58E2180D1CDD00192A20 /* gameArts-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589D180D1CDD00192A20 /* gameArts-hd.plist */; };
+		AB9E58E3180D1CDD00192A20 /* gameArts-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589D180D1CDD00192A20 /* gameArts-hd.plist */; };
+		AB9E58E4180D1CDD00192A20 /* gameArts-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589E180D1CDD00192A20 /* gameArts-hd.png */; };
+		AB9E58E5180D1CDD00192A20 /* gameArts-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589E180D1CDD00192A20 /* gameArts-hd.png */; };
+		AB9E58E6180D1CDD00192A20 /* gameArts.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589F180D1CDD00192A20 /* gameArts.plist */; };
+		AB9E58E7180D1CDD00192A20 /* gameArts.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB9E589F180D1CDD00192A20 /* gameArts.plist */; };
+		AB9E58E8180D1CDD00192A20 /* gameArts.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E58A0180D1CDD00192A20 /* gameArts.png */; };
+		AB9E58E9180D1CDD00192A20 /* gameArts.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9E58A0180D1CDD00192A20 /* gameArts.png */; };
+		AB9E58EA180D1CDD00192A20 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = AB9E58A1180D1CDD00192A20 /* fonts */; };
+		AB9E58EB180D1CDD00192A20 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = AB9E58A1180D1CDD00192A20 /* fonts */; };
+		AB9E58F5180D21D800192A20 /* VisibleRect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB9E58F3180D21D800192A20 /* VisibleRect.cpp */; };
+		AB9E58F6180D21D800192A20 /* VisibleRect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB9E58F3180D21D800192A20 /* VisibleRect.cpp */; };
 		BF171245129291EC00B8313A /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB012928DE900B8313A /* OpenGLES.framework */; };
 		BF1712471292920000B8313A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB412928DE900B8313A /* libz.dylib */; };
 		BF1C47F01293687400B63C5D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF1C47EA1293683800B63C5D /* QuartzCore.framework */; };
@@ -288,6 +364,46 @@
 		50EF629517ECD46A001EB2F8 /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-100.png"; sourceTree = "<group>"; };
 		50EF62A017ECD613001EB2F8 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
 		50EF62A117ECD613001EB2F8 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
+		AB9E587D180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftAircraftBig@2x.png"; sourceTree = "<group>"; };
+		AB9E587E180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftAircraftSmall2@2x.png"; sourceTree = "<group>"; };
+		AB9E587F180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftAvatarMask@2x.png"; sourceTree = "<group>"; };
+		AB9E5880180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftBkgBig@2x.png"; sourceTree = "<group>"; };
+		AB9E5881180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftBkgBigLine@2x.png"; sourceTree = "<group>"; };
+		AB9E5882180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftBkgSmall@2x.png"; sourceTree = "<group>"; };
+		AB9E5883180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonBule@2x.png"; sourceTree = "<group>"; };
+		AB9E5884180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonBuleHL@2x.png"; sourceTree = "<group>"; };
+		AB9E5885180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonBuleSmall@2x.png"; sourceTree = "<group>"; };
+		AB9E5886180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonBuleSmallHL@2x.png"; sourceTree = "<group>"; };
+		AB9E5887180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonGreen@2x.png"; sourceTree = "<group>"; };
+		AB9E5888180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftButtonGreenHL@2x.png"; sourceTree = "<group>"; };
+		AB9E5889180D1CDD00192A20 /* BurstAircraftComplete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftComplete@2x.png"; sourceTree = "<group>"; };
+		AB9E588A180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftLoadingBg@2x.png"; sourceTree = "<group>"; };
+		AB9E588B180D1CDD00192A20 /* BurstAircraftLogo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftLogo-hd.png"; sourceTree = "<group>"; };
+		AB9E588C180D1CDD00192A20 /* BurstAircraftLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BurstAircraftLogo.png; sourceTree = "<group>"; };
+		AB9E588D180D1CDD00192A20 /* BurstAircraftPause@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftPause@2x.png"; sourceTree = "<group>"; };
+		AB9E588E180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftPauseHL@2x.png"; sourceTree = "<group>"; };
+		AB9E588F180D1CDD00192A20 /* BurstAircraftStart@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftStart@2x.png"; sourceTree = "<group>"; };
+		AB9E5890180D1CDD00192A20 /* BurstAircraftStartHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftStartHL@2x.png"; sourceTree = "<group>"; };
+		AB9E5891180D1CDD00192A20 /* BurstAircraftTopScores@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BurstAircraftTopScores@2x.png"; sourceTree = "<group>"; };
+		AB9E5892180D1CDD00192A20 /* end.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = end.wav; sourceTree = "<group>"; };
+		AB9E5893180D1CDD00192A20 /* enemy1_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy1_down.mp3; sourceTree = "<group>"; };
+		AB9E5894180D1CDD00192A20 /* enemy2_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy2_down.mp3; sourceTree = "<group>"; };
+		AB9E5895180D1CDD00192A20 /* enemy2_out.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy2_out.mp3; sourceTree = "<group>"; };
+		AB9E5896180D1CDD00192A20 /* enemy3_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy3_down.mp3; sourceTree = "<group>"; };
+		AB9E5897180D1CDD00192A20 /* enemy4_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy4_down.mp3; sourceTree = "<group>"; };
+		AB9E5898180D1CDD00192A20 /* enemy4_out.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy4_out.mp3; sourceTree = "<group>"; };
+		AB9E5899180D1CDD00192A20 /* enemy5_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = enemy5_down.mp3; sourceTree = "<group>"; };
+		AB9E589A180D1CDD00192A20 /* game_achievement.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = game_achievement.mp3; sourceTree = "<group>"; };
+		AB9E589B180D1CDD00192A20 /* game_music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = game_music.mp3; sourceTree = "<group>"; };
+		AB9E589C180D1CDD00192A20 /* game_over.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = game_over.mp3; sourceTree = "<group>"; };
+		AB9E589D180D1CDD00192A20 /* gameArts-hd.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "gameArts-hd.plist"; sourceTree = "<group>"; };
+		AB9E589E180D1CDD00192A20 /* gameArts-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gameArts-hd.png"; sourceTree = "<group>"; };
+		AB9E589F180D1CDD00192A20 /* gameArts.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = gameArts.plist; sourceTree = "<group>"; };
+		AB9E58A0180D1CDD00192A20 /* gameArts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameArts.png; sourceTree = "<group>"; };
+		AB9E58A1180D1CDD00192A20 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		AB9E58F3180D21D800192A20 /* VisibleRect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = VisibleRect.cpp; path = ../Classes/VisibleRect.cpp; sourceTree = "<group>"; };
+		AB9E58F4180D21D800192A20 /* VisibleRect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VisibleRect.h; path = ../Classes/VisibleRect.h; sourceTree = "<group>"; };
+		AB9E58F9180D24FB00192A20 /* Consts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Consts.h; path = ../Classes/Consts.h; sourceTree = "<group>"; };
 		BF170DB012928DE900B8313A /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		BF170DB412928DE900B8313A /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		BF1C47EA1293683800B63C5D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -363,6 +479,10 @@
 		15AA9C4015B7EC450033D6C2 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				AB9E58F8180D24E200192A20 /* Common */,
+				AB9E58F7180D24D800192A20 /* UI */,
+				AB9E58F3180D21D800192A20 /* VisibleRect.cpp */,
+				AB9E58F4180D21D800192A20 /* VisibleRect.h */,
 				1AFAF8B316D35DE700DB1158 /* AppDelegate.cpp */,
 				1AFAF8B416D35DE700DB1158 /* AppDelegate.h */,
 				1AFAF8B516D35DE700DB1158 /* HelloWorldScene.cpp */,
@@ -485,12 +605,64 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AB9E587D180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png */,
+				AB9E587E180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png */,
+				AB9E587F180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png */,
+				AB9E5880180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png */,
+				AB9E5881180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png */,
+				AB9E5882180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png */,
+				AB9E5883180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png */,
+				AB9E5884180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png */,
+				AB9E5885180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png */,
+				AB9E5886180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png */,
+				AB9E5887180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png */,
+				AB9E5888180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png */,
+				AB9E5889180D1CDD00192A20 /* BurstAircraftComplete@2x.png */,
+				AB9E588A180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png */,
+				AB9E588B180D1CDD00192A20 /* BurstAircraftLogo-hd.png */,
+				AB9E588C180D1CDD00192A20 /* BurstAircraftLogo.png */,
+				AB9E588D180D1CDD00192A20 /* BurstAircraftPause@2x.png */,
+				AB9E588E180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png */,
+				AB9E588F180D1CDD00192A20 /* BurstAircraftStart@2x.png */,
+				AB9E5890180D1CDD00192A20 /* BurstAircraftStartHL@2x.png */,
+				AB9E5891180D1CDD00192A20 /* BurstAircraftTopScores@2x.png */,
+				AB9E5892180D1CDD00192A20 /* end.wav */,
+				AB9E5893180D1CDD00192A20 /* enemy1_down.mp3 */,
+				AB9E5894180D1CDD00192A20 /* enemy2_down.mp3 */,
+				AB9E5895180D1CDD00192A20 /* enemy2_out.mp3 */,
+				AB9E5896180D1CDD00192A20 /* enemy3_down.mp3 */,
+				AB9E5897180D1CDD00192A20 /* enemy4_down.mp3 */,
+				AB9E5898180D1CDD00192A20 /* enemy4_out.mp3 */,
+				AB9E5899180D1CDD00192A20 /* enemy5_down.mp3 */,
+				AB9E589A180D1CDD00192A20 /* game_achievement.mp3 */,
+				AB9E589B180D1CDD00192A20 /* game_music.mp3 */,
+				AB9E589C180D1CDD00192A20 /* game_over.mp3 */,
+				AB9E589D180D1CDD00192A20 /* gameArts-hd.plist */,
+				AB9E589E180D1CDD00192A20 /* gameArts-hd.png */,
+				AB9E589F180D1CDD00192A20 /* gameArts.plist */,
+				AB9E58A0180D1CDD00192A20 /* gameArts.png */,
+				AB9E58A1180D1CDD00192A20 /* fonts */,
 				1AFAF8B916D35E4900DB1158 /* CloseNormal.png */,
 				1AFAF8BA16D35E4900DB1158 /* CloseSelected.png */,
 				1AFAF8BB16D35E4900DB1158 /* HelloWorld.png */,
 			);
 			name = Resources;
 			path = ../Resources;
+			sourceTree = "<group>";
+		};
+		AB9E58F7180D24D800192A20 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		AB9E58F8180D24E200192A20 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				AB9E58F9180D24FB00192A20 /* Consts.h */,
+			);
+			name = Common;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -685,24 +857,61 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB9E58C6180D1CDD00192A20 /* BurstAircraftStart@2x.png in Resources */,
+				AB9E58A8180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png in Resources */,
 				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
 				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
+				AB9E58B6180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png in Resources */,
 				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
+				AB9E58A4180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png in Resources */,
+				AB9E58B0180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png in Resources */,
+				AB9E58AA180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png in Resources */,
 				50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */,
+				AB9E58AE180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png in Resources */,
+				AB9E58D4180D1CDD00192A20 /* enemy3_down.mp3 in Resources */,
 				1AFAF8BC16D35E4900DB1158 /* CloseNormal.png in Resources */,
 				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
+				AB9E58E0180D1CDD00192A20 /* game_over.mp3 in Resources */,
+				AB9E58C2180D1CDD00192A20 /* BurstAircraftPause@2x.png in Resources */,
+				AB9E58DC180D1CDD00192A20 /* game_achievement.mp3 in Resources */,
+				AB9E58C8180D1CDD00192A20 /* BurstAircraftStartHL@2x.png in Resources */,
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
+				AB9E58CA180D1CDD00192A20 /* BurstAircraftTopScores@2x.png in Resources */,
+				AB9E58E2180D1CDD00192A20 /* gameArts-hd.plist in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
+				AB9E58D8180D1CDD00192A20 /* enemy4_out.mp3 in Resources */,
+				AB9E58BA180D1CDD00192A20 /* BurstAircraftComplete@2x.png in Resources */,
 				1AFAF8BD16D35E4900DB1158 /* CloseSelected.png in Resources */,
 				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
+				AB9E58A2180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png in Resources */,
+				AB9E58C4180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png in Resources */,
+				AB9E58B4180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png in Resources */,
+				AB9E58C0180D1CDD00192A20 /* BurstAircraftLogo.png in Resources */,
+				AB9E58E6180D1CDD00192A20 /* gameArts.plist in Resources */,
+				AB9E58EA180D1CDD00192A20 /* fonts in Resources */,
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
+				AB9E58B2180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png in Resources */,
+				AB9E58D2180D1CDD00192A20 /* enemy2_out.mp3 in Resources */,
+				AB9E58BC180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png in Resources */,
+				AB9E58DE180D1CDD00192A20 /* game_music.mp3 in Resources */,
 				1AFAF8BE16D35E4900DB1158 /* HelloWorld.png in Resources */,
+				AB9E58BE180D1CDD00192A20 /* BurstAircraftLogo-hd.png in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
+				AB9E58D6180D1CDD00192A20 /* enemy4_down.mp3 in Resources */,
+				AB9E58CC180D1CDD00192A20 /* end.wav in Resources */,
+				AB9E58AC180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png in Resources */,
+				AB9E58E8180D1CDD00192A20 /* gameArts.png in Resources */,
 				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
+				AB9E58DA180D1CDD00192A20 /* enemy5_down.mp3 in Resources */,
+				AB9E58D0180D1CDD00192A20 /* enemy2_down.mp3 in Resources */,
+				AB9E58B8180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png in Resources */,
 				50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */,
+				AB9E58CE180D1CDD00192A20 /* enemy1_down.mp3 in Resources */,
 				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
 				5087E77E17EB970100C73F5D /* Default.png in Resources */,
+				AB9E58E4180D1CDD00192A20 /* gameArts-hd.png in Resources */,
+				AB9E58A6180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png in Resources */,
 				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -711,9 +920,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB9E58C3180D1CDD00192A20 /* BurstAircraftPause@2x.png in Resources */,
+				AB9E58B3180D1CDD00192A20 /* BurstAircraftButtonBuleSmall@2x.png in Resources */,
+				AB9E58B9180D1CDD00192A20 /* BurstAircraftButtonGreenHL@2x.png in Resources */,
+				AB9E58E9180D1CDD00192A20 /* gameArts.png in Resources */,
+				AB9E58E3180D1CDD00192A20 /* gameArts-hd.plist in Resources */,
+				AB9E58A5180D1CDD00192A20 /* BurstAircraftAircraftSmall2@2x.png in Resources */,
+				AB9E58CF180D1CDD00192A20 /* enemy1_down.mp3 in Resources */,
+				AB9E58A9180D1CDD00192A20 /* BurstAircraftBkgBig@2x.png in Resources */,
+				AB9E58B7180D1CDD00192A20 /* BurstAircraftButtonGreen@2x.png in Resources */,
+				AB9E58B1180D1CDD00192A20 /* BurstAircraftButtonBuleHL@2x.png in Resources */,
+				AB9E58AB180D1CDD00192A20 /* BurstAircraftBkgBigLine@2x.png in Resources */,
+				AB9E58B5180D1CDD00192A20 /* BurstAircraftButtonBuleSmallHL@2x.png in Resources */,
+				AB9E58A7180D1CDD00192A20 /* BurstAircraftAvatarMask@2x.png in Resources */,
+				AB9E58D5180D1CDD00192A20 /* enemy3_down.mp3 in Resources */,
+				AB9E58DB180D1CDD00192A20 /* enemy5_down.mp3 in Resources */,
+				AB9E58C5180D1CDD00192A20 /* BurstAircraftPauseHL@2x.png in Resources */,
+				AB9E58C1180D1CDD00192A20 /* BurstAircraftLogo.png in Resources */,
+				AB9E58BB180D1CDD00192A20 /* BurstAircraftComplete@2x.png in Resources */,
+				AB9E58A3180D1CDD00192A20 /* BurstAircraftAircraftBig@2x.png in Resources */,
+				AB9E58C9180D1CDD00192A20 /* BurstAircraftStartHL@2x.png in Resources */,
+				AB9E58C7180D1CDD00192A20 /* BurstAircraftStart@2x.png in Resources */,
+				AB9E58CB180D1CDD00192A20 /* BurstAircraftTopScores@2x.png in Resources */,
+				AB9E58EB180D1CDD00192A20 /* fonts in Resources */,
 				5087E75317EB910900C73F5D /* CloseNormal.png in Resources */,
 				503AE0F817EB97AB00D1A890 /* Icon.icns in Resources */,
+				AB9E58DF180D1CDD00192A20 /* game_music.mp3 in Resources */,
+				AB9E58E7180D1CDD00192A20 /* gameArts.plist in Resources */,
+				AB9E58D9180D1CDD00192A20 /* enemy4_out.mp3 in Resources */,
+				AB9E58D1180D1CDD00192A20 /* enemy2_down.mp3 in Resources */,
+				AB9E58D3180D1CDD00192A20 /* enemy2_out.mp3 in Resources */,
+				AB9E58E5180D1CDD00192A20 /* gameArts-hd.png in Resources */,
 				5087E75417EB910900C73F5D /* CloseSelected.png in Resources */,
+				AB9E58CD180D1CDD00192A20 /* end.wav in Resources */,
+				AB9E58D7180D1CDD00192A20 /* enemy4_down.mp3 in Resources */,
+				AB9E58DD180D1CDD00192A20 /* game_achievement.mp3 in Resources */,
+				AB9E58AF180D1CDD00192A20 /* BurstAircraftButtonBule@2x.png in Resources */,
+				AB9E58BD180D1CDD00192A20 /* BurstAircraftLoadingBg@2x.png in Resources */,
+				AB9E58E1180D1CDD00192A20 /* game_over.mp3 in Resources */,
+				AB9E58BF180D1CDD00192A20 /* BurstAircraftLogo-hd.png in Resources */,
+				AB9E58AD180D1CDD00192A20 /* BurstAircraftBkgSmall@2x.png in Resources */,
 				5087E75517EB910900C73F5D /* HelloWorld.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -727,6 +973,7 @@
 			files = (
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
+				AB9E58F5180D21D800192A20 /* VisibleRect.cpp in Sources */,
 				1AFAF8B716D35DE700DB1158 /* AppDelegate.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				1AFAF8B816D35DE700DB1158 /* HelloWorldScene.cpp in Sources */,
@@ -737,6 +984,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB9E58F6180D21D800192A20 /* VisibleRect.cpp in Sources */,
 				5087E75717EB910900C73F5D /* AppDelegate.cpp in Sources */,
 				5087E75817EB910900C73F5D /* HelloWorldScene.cpp in Sources */,
 				503AE10517EB98FF00D1A890 /* main.cpp in Sources */,

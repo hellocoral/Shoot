@@ -2,8 +2,9 @@
 #define __HELLOWORLD_SCENE_H__
 
 #include "cocos2d.h"
+USING_NS_CC;
 
-class HelloWorld : public cocos2d::Layer
+class HelloWorld : public Layer
 {
 public:
     // there's no 'id' in cpp, so we recommend returning the class instance pointer
